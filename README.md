@@ -5,6 +5,9 @@
 The main focus of this project was to put together our portfolio.
 This portfolio will showcase all of our work throughout the 6 month long coding bootcamp.
 
+![Project Screenshot](/assets/images/Screenshot.jpg "Jack's Portfolio")
+Link: https://jeco1988.github.io/Challenge-2/
+
 ## Table of Contents
 
 - [Installation](#installation)
